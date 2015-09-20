@@ -4,6 +4,7 @@ body{
 	background-image: url("../img/rock-bg.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-color: #000;
 }
 
 .header{
@@ -78,4 +79,14 @@ body{
 .fa-pinterest-square:hover{
 	color: #cb2027;
 	border-color: #cb2027;
+}
+
+@media (orientation: portrait){
+	body{
+		background-image: url("../img/rock-bg-portrait.jpg");
+	}
+
+	.footer{
+		margin-bottom: 5%;
+	}
 }
