@@ -156,7 +156,8 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    /**background-image: url('../img/header.jpg');*/
+    background-color: rgba(0,0,0,0.7);
     text-align: center;
     color: white;
     .header-content {
@@ -322,6 +323,10 @@ header {
 }
 
 // Contact
+
+#contact{
+    background-color: #eee;
+}
 #contact .fa {
     color: $theme-dark;
     font-size: 4em;

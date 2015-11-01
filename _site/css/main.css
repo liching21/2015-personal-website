@@ -123,7 +123,8 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url("../img/header.jpg");
+  /**background-image: url('../img/header.jpg');*/
+  background-color: rgba(0, 0, 0, 0.7);
   text-align: center;
   color: white; }
   header .header-content {
@@ -282,6 +283,9 @@ header {
 
 .btn-xl {
   padding: 15px 30px; }
+
+#contact {
+  background-color: #eee; }
 
 #contact .fa {
   color: #222;
