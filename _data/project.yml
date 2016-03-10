@@ -1,0 +1,29 @@
+- url: http://lichingyew.com/sukyo-mahikari-oceania/
+  name: Sukyo Mahikari Oceania
+  type: Work in Progress
+  image: img/portfolio/img-SMA.jpg
+
+- url: http://lichingyew.com/FEND-neighborhood-map/
+  name: Neighborhood Map
+  type: Web Application
+  image: img/portfolio/img-portfolio-FEND-5.jpg
+
+- url: img/portfolio/Little-Hotelier-Training.png
+  name: Little Hotelier Training Screen
+  type: Design
+  image: img/portfolio/img-LH-training.jpg
+
+- url: http://lichingyew.com/frontend-nanodegree-arcade-game-master/
+  name: Frogger
+  type: Game
+  image: img/portfolio/img-FEND-3.jpg
+
+- url: http://lichingyew.com/22/
+  name: 22
+  type: Web Development
+  image: img/portfolio/img-22.jpg
+
+- url: http://lichingyew.com/Emeralds/
+  name: Sydney Emeralds Synchro Club
+  type: Web Design
+  image: img/portfolio/Project-img-SESC.jpg
